@@ -9,3 +9,6 @@
 Packages
 ServerPackages
 wally.lock
+
+# MacOS
+.DS_Store
