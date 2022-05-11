@@ -10,5 +10,8 @@ Packages
 ServerPackages
 wally.lock
 
+# Selene
+roblox.toml
+
 # MacOS
 .DS_Store
