@@ -1,1 +1,3 @@
-print("Hello world, from server!")
+local CmdrServer = require(script.systems.CmdrServer)
+
+CmdrServer.start()
