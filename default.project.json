@@ -30,12 +30,6 @@
           "$path": "src/client"
         }
       }
-    },
-
-    "Workspace": {
-      "$properties": {
-        "FilteringEnabled": true
-      }
     }
   }
 }
