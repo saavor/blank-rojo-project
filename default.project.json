@@ -1,14 +1,17 @@
 {
-  "name": "blank",
+  "name": "base",
   "tree": {
     "$className": "DataModel",
+
+    "ReplicatedFirst": {
+      "Packages": {
+        "$path": "Packages"
+      }
+    },
 
     "ReplicatedStorage": {
       "Common": {
         "$path": "src/shared"
-      },
-      "Packages": {
-        "$path": "Packages"
       }
     },
 
